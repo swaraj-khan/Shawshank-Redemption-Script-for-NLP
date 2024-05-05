@@ -16,9 +16,8 @@ This project comprises Python scripts utilizing various NLP libraries and techni
 
 ## Dataset Source
 
-    ```
-    https://www.kaggle.com/datasets/swarajkhan/shawshank-redemption-script-for-nlp
-    ```
+[Shawshank Redemption Script for NLP](https://www.kaggle.com/datasets/swarajkhan/shawshank-redemption-script-for-nlp)
+
 
 ## Installation
 
