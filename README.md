@@ -14,6 +14,12 @@ This project comprises Python scripts utilizing various NLP libraries and techni
 - **Summarization**: Text summarization is implemented using the Hugging Face transformers library.
 - **Character Interaction Network Visualization**: The interactions between characters are visualized using NetworkX and Matplotlib.
 
+## Dataset Source
+
+    ```
+    https://www.kaggle.com/datasets/swarajkhan/shawshank-redemption-script-for-nlp
+    ```
+
 ## Installation
 
 1. Clone the repository:
